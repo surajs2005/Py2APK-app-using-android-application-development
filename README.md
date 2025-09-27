@@ -15,7 +15,3 @@ Py2APK is a tool that converts Python scripts into installable Android APK files
 - **Framework Support:** Kivy, PyInstaller  
 - **Platform:** Android  
 
-## Setup
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Py2APK.git
